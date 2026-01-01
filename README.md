@@ -9,22 +9,20 @@ Visualize your sales data with filters for Region, Category, and Salesperson, an
 - View **sales trends over time**
 - Analyze **sales by category**
 - Dashboard runs locally in a web browser
-- Easy to extend for more KPIs or visualizations
-
-## Demo
-
-![Sales Dashboard Preview](screenshot.png)  
-
-*(Optional: take a screenshot of your dashboard and save it as `screenshot.png` in the folder)*
+- Click **Exit Dashboard** to stop the server
 
 ## Getting Started
 
 ### Prerequisites
 
-- Python 3.10+  
-- pip  
+- Python 3.10+
+- pip
 
 ### Install Dependencies
 
-```bash
-pip install -r requirements.txt
+Create a `requirements.txt` with the following:
+pandas==2.1.0
+dash==2.13.0
+plotly==5.18.0
+werkzeug==2.3.10
+
