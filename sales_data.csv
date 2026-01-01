@@ -1,0 +1,10 @@
+Date,Region,Category,Salesperson,Sales
+01/01/2025,Europe,Electronics,Alice,1200
+02/01/2025,Europe,Furniture,Bob,800
+03/01/2025,Asia,Electronics,Charlie,950
+04/01/2025,Asia,Office Supplies,Alice,400
+05/01/2025,USA,Furniture,Dave,1100
+06/01/2025,USA,Electronics,Bob,1500
+07/01/2025,Europe,Office Supplies,Charlie,600
+08/01/2025,Asia,Furniture,Dave,400
+09/01/2025,Europe,Office Supplies,Barry,300
